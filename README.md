@@ -1,0 +1,2 @@
+# Customer-Behavior-and-Sales-Forecasting-EDA-and-Automation-in-Retail
+This synthetic dataset simulates a bustling retail environment, allowing you to explore retail sales and customer characteristics. Uncover complex patterns and insights through exploratory data analysis (EDA), enhance understanding of customer behavior, and integrate sales forecasting and automation to streamline and predict future trends.
