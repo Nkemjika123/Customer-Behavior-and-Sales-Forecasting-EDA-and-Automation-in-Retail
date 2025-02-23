@@ -63,6 +63,67 @@ Performed calculations to summarize the dataset:
 - **Mean**  
 - **Median**  
 - **Mode**  
-- **Standard deviation**  
+- **Standard deviation**
+![Screenshot 2025-02-23 160435](https://github.com/user-attachments/assets/281f8ac6-a75f-4979-81d1-e8c96666ce7b)
+  
+
+# Time Series Analysis: Seasonal Sales Trends and Customer Behavior  
+![Screenshot 2025-02-23 160518](https://github.com/user-attachments/assets/ac705a7b-7d35-40a2-8767-9f9fc84c5445)
+
+## Sales Trends Overview  
+The chart above highlights peak sales periods in **May, October, and December**, indicating strong **seasonal trends and customer behavior patterns**.  
+
+## Possible Reasons for High Sales  
+
+### **May**  
+- **Spring Shopping**: Increased demand for clothing, outdoor products, and home improvement items.  
+- **Mother's Day**: Surge in sales for beauty products, jewelry, and gifts.  
+- **Pre-Summer Sales**: Higher purchases of summer-related products like swimwear and travel gear.  
+
+### **October**  
+- **Holiday Preparation**: Customers begin shopping for Halloween, Thanksgiving, and Christmas.  
+- **Back-to-School Sales**: Increased demand for school supplies, clothing, and electronics (varies by region).  
+- **Festive Discounts**: Retailers attract early holiday shoppers with promotions.  
+
+### **December**  
+- **Holiday Shopping**: Peak season for Christmas and New Year sales.  
+- **Year-End Sales**: Clearance sales drive revenue and attract bargain hunters.  
+- **Gift Purchases**: High sales across multiple categories due to holiday gifting.  
+
+## Customer Behavior Insights  
+The increased sales during these months indicate that purchasing behavior is influenced by external factors such as **holidays, seasons, and promotions**.  
+
+### **Key Insights**  
+- **Gift-Giving Culture**: Customers spend more during festive seasons (e.g., Mother's Day, Halloween, Christmas).  
+- **Seasonal Needs**: Demand for seasonal products rises (e.g., winter clothing in December, summer items in May).  
+- **Promotional Sensitivity**: Customers respond well to discounts and limited-time offers.  
+
+## Business Opportunities  
+To leverage these seasonal trends, businesses can implement the following strategies:  
+
+- **Inventory Planning**: Stock up on high-demand products before peak months.  
+- **Marketing Campaigns**: Run targeted promotions to capitalize on increased spending.  
+- **Loyalty Programs**: Offer discounts or rewards to encourage repeat purchases.  
+- **Upselling and Cross-Selling**: Bundle complementary products to increase average order value.  
+
+## Recommendations  
+
+### **For May**  
+✅ Promote **Mother's Day gift bundles** (e.g., beauty products, jewelry, clothing).  
+✅ Highlight **spring and summer collections** (e.g., outdoor gear, swimwear).  
+✅ Run **pre-summer sales** to attract early shoppers.  
+
+### **For October**  
+✅ Launch **holiday-themed promotions** (e.g., Halloween costumes, decorations).  
+✅ Offer **early-bird discounts** for Christmas shoppers.  
+✅ Advertise **back-to-school essentials**, if applicable.  
+
+### **For December**  
+✅ Focus on **holiday gift guides** and curated gift sets.  
+✅ Run **year-end clearance sales** to move inventory.  
+✅ Offer **free shipping or expedited delivery** for last-minute shoppers.  
+
+
+
 
 ---
