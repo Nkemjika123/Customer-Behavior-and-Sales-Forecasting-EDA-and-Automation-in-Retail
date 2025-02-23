@@ -170,6 +170,26 @@ Based on the output, the product categories with the highest sales during peak m
 - 🔹 **Promotions**: Run **"Buy 1, Get 1 Free"** or **discounts on premium beauty products**.  
 - 🔹 **Personalization**: Offer personalized **product recommendations** based on customer preferences.  
 
+# Customer Segmentation: Top Customers and Their Buying Behavior
+
+## Sales Data Analysis
+
+### Top Customers by Spending and Product Preferences
+
+| Image | Description |
+|-------|------------|
+| ![Product Preferences](https://raw.githubusercontent.com/your-repo-path/Screenshot-2025-02-23-163803.png) | Product Preferences of Top Customers by Gender |
+| ![Top Customers](https://raw.githubusercontent.com/your-repo-path/Screenshot-2025-02-23-164117.png) | Top 10 Customers by Spending |
+| ![Sales by Customer Segment](https://raw.githubusercontent.com/your-repo-path/Screenshot-2025-02-23-163938.png) | Sales by Customer Segment and Product Category (Peak Months) |
+| ![Sales Table](https://raw.githubusercontent.com/your-repo-path/Screenshot-2025-02-23-164141.png) | Sales Breakdown by Gender and Product Category |
+
+### Key Insights:
+- **Electronics**: Highest sales, especially among male customers.
+- **Clothing**: Popular among female customers.
+- **Beauty Products**: Balanced demand from both genders.
+- **Top Customers**: Each spent 2000 during peak months.
+
+
 ---
 
 
