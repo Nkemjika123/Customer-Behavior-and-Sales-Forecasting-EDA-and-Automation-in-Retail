@@ -64,6 +64,7 @@ Performed calculations to summarize the dataset:
 - **Median**  
 - **Mode**  
 - **Standard deviation**
+
 ![Screenshot 2025-02-23 160435](https://github.com/user-attachments/assets/281f8ac6-a75f-4979-81d1-e8c96666ce7b)
   
 
@@ -124,6 +125,52 @@ To leverage these seasonal trends, businesses can implement the following strate
 ✅ Offer **free shipping or expedited delivery** for last-minute shoppers.  
 
 
+# **Product Category Analysis During Peak Sales Months**  
+
+![Screenshot 2025-02-23 162417](https://github.com/user-attachments/assets/99fec351-5dbb-4dd6-bf00-3e1efcaa3931)
+
+## **Top-Selling Categories**  
+Based on the output, the product categories with the highest sales during peak months (**May, October, and December**) are:  
+
+- **Electronics**: Total sales = **61,375**  
+- **Clothing**: Total sales = **42,840**  
+- **Beauty**: Total sales = **40,205**  
+
+## **Interpretation of Results**  
+
+### **Electronics**  
+✅ **Top-performing category** during peak months.  
+✅ Driven by **holiday gift purchases** (e.g., smartphones, laptops, gaming consoles).  
+✅ Customers may upgrade devices or take advantage of year-end discounts.  
+
+### **Clothing**  
+✅ Sales align with **seasonal trends** (e.g., winter clothing in December, summer wear in May).  
+✅ Boosted by **holiday shopping** and festive outfit demand.  
+✅ Promotions and discounts increase sales volume.  
+
+### **Beauty**  
+✅ High demand due to **gift-giving occasions** (e.g., Mother's Day, Christmas).  
+✅ Self-care trends during holidays drive increased purchases.  
+✅ Customers stock up on beauty products during sales events.  
+
+## **Actionable Insights**  
+
+### **Electronics**  
+- 🔹 **Promote High-Demand Items**: Focus on **smartphones, laptops, and gaming consoles**.  
+- 🔹 **Bundle Offers**: Create **gift bundles** (e.g., smartphone + accessories) to increase average transaction value.  
+- 🔹 **Early Bird Discounts**: Offer holiday discounts in **October** to capture early demand.  
+
+### **Clothing**  
+- 🔹 **Seasonal Collections**: Highlight **winter wear (December)** and **summer fashion (May)**.  
+- 🔹 **Gift Guides**: Curate **holiday shopping guides** (e.g., "Top 10 Gifts for Her/Him").  
+- 🔹 **Loyalty Programs**: Reward repeat customers with **exclusive discounts** or early access.  
+
+### **Beauty**  
+- 🔹 **Gift Sets**: Create **beauty bundles** (e.g., skincare or makeup kits) for holiday shoppers.  
+- 🔹 **Promotions**: Run **"Buy 1, Get 1 Free"** or **discounts on premium beauty products**.  
+- 🔹 **Personalization**: Offer personalized **product recommendations** based on customer preferences.  
+
+---
 
 
 ---
