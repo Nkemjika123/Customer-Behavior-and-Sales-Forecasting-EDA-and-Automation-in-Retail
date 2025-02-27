@@ -229,7 +229,7 @@ Based on the output, the product categories with the highest sales during peak m
 
 ---
 
-## 🛍 Seasonal Promotions
+##  Seasonal Promotions
 
 ### For Men
 - Run holiday promotions for electronics (e.g., "Black Friday Tech Deals").
