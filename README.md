@@ -191,7 +191,7 @@ Based on the output, the product categories with the highest sales during peak m
 
 # Actionable Recommendations
 
-## 🎯 Targeted Marketing Campaigns
+##  Targeted Marketing Campaigns
 
 ### For Men (Electronics)
 - Run tech-focused campaigns highlighting the latest gadgets and electronics.
@@ -217,7 +217,7 @@ Based on the output, the product categories with the highest sales during peak m
 
 ---
 
-## 🎁 Loyalty Programs
+##  Loyalty Programs
 
 ### For Men
 - Offer tech-focused rewards (e.g., discounts on electronics, free accessories with purchases).
@@ -229,7 +229,7 @@ Based on the output, the product categories with the highest sales during peak m
 
 ---
 
-## 🛍️ Seasonal Promotions
+## 🛍 Seasonal Promotions
 
 ### For Men
 - Run holiday promotions for electronics (e.g., "Black Friday Tech Deals").
@@ -241,7 +241,7 @@ Based on the output, the product categories with the highest sales during peak m
 
 ---
 
-## 📦 Inventory Planning
+##  Inventory Planning
 
 ### For Men
 - Stock up on high-demand electronics (e.g., gaming consoles, smartphones) during peak months.
@@ -323,7 +323,7 @@ An **Average Transaction Value (ATV)** of **$456.00** provides valuable insight 
 
 ---
 
-## 🔍 What Does an ATV of $456 Mean?
+##  What Does an ATV of $456 Mean?
 
 ### 📈 High-Value Transactions  
 - Customers are making significant purchases, contributing positively to revenue.  
@@ -348,7 +348,7 @@ Encourage customers to **purchase higher-value products** (e.g., a premium smart
 #### **Cross-Selling**  
 Recommend complementary products (**e.g., headphones with a smartphone, skincare with makeup**).  
 
-📌 **Example:**  
+ **Example:**  
 - If a customer buys a **laptop**, suggest adding a **laptop bag, mouse, or extended warranty**.  
 
 ---
@@ -356,7 +356,7 @@ Recommend complementary products (**e.g., headphones with a smartphone, skincare
 ###  Bundle Offers  
 - Create **discounted product bundles** to increase ATV while offering customer value.  
 
-📌 **Example:**  
+ **Example:**  
 - **Tech Starter Kit:** Smartphone + headphones + case  
 - **Beauty Essentials:** Skincare set + makeup palette  
 
@@ -365,7 +365,7 @@ Recommend complementary products (**e.g., headphones with a smartphone, skincare
 ###  Loyalty Programs  
 Encourage customers to spend more by rewarding **higher transaction values**.  
 
-📌 **Example:**  
+ **Example:**  
 - **Bronze:** 5% discount for spending **$300**  
 - **Silver:** 10% discount for spending **$600**  
 - **Gold:** 15% discount for spending **$1,000**  
@@ -382,7 +382,7 @@ Encourage customers to spend more by rewarding **higher transaction values**.
 - Use **customer purchase data** to suggest relevant products.  
 - **Personalized recommendations** increase the likelihood of larger transactions.  
 
-📌 **Example:**  
+ **Example:**  
 - If a customer frequently buys **beauty products**, recommend **premium skincare sets** or **limited-edition makeup**.  
 
 ---
@@ -390,7 +390,7 @@ Encourage customers to spend more by rewarding **higher transaction values**.
 ###  Limited-Time Offers  
 - Create **urgency** with **flash sales and time-sensitive discounts**.  
 
-📌 **Example:**  
+ **Example:**  
 - “**24-hour Flash Sale:** Get **20% off** all electronics today only!”  
 
 #  Sales Trends and Insights
@@ -401,7 +401,7 @@ Analyzing sales patterns reveals **dips in March, June, September, and November*
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### 📈 Sales Peaks (May, October, December)
 - **May:** Driven by **Mother’s Day**, **spring shopping**, and **pre-summer sales**.  
@@ -443,7 +443,7 @@ Analyzing sales patterns reveals **dips in March, June, September, and November*
 
 ---
 
-## 📌 Summary
+##  Summary
 
 By aligning your **inventory, marketing, and customer engagement** strategies with these **sales trends**, you can **increase revenue during peaks** and **minimize dips in slow months**.
 
